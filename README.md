@@ -42,7 +42,7 @@ Beep
 2
 1
 
-#DataType_Arrays_Pointers
+_________DataType_Arrays_Pointers_________
 Ticket Office
 You are working on a ticketing system. A ticket costs $10.
 The office is running a discount campaign: each group of 5 people is getting a discount, which is determined by the age of the youngest person in the group.
@@ -61,3 +61,14 @@ Sample Output:
 The youngest age is 15, so the group gets a 15% discount from the total price, which is $50 - 15% = $42.5
 
 
+_________Polindrome_Numbers_________
+Palindrome Numbers
+A palindromic number is a number (such as 626) that remains the same when its digits are reversed.
+Write a function that returns true if a given number is a palindrome, and false, if it is not.
+Complete the given function, so that the code in main works and results in the expected output.
+
+Sample Input:
+13431
+
+Sample Output:
+13431 is a palindrome
