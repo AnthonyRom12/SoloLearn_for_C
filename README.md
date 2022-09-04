@@ -42,7 +42,7 @@ Beep
 2
 1
 
-###DataType_Arrays_Pointers
+#DataType_Arrays_Pointers
 Ticket Office
 You are working on a ticketing system. A ticket costs $10.
 The office is running a discount campaign: each group of 5 people is getting a discount, which is determined by the age of the youngest person in the group.
