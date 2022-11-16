@@ -1,5 +1,5 @@
 # SoloLearn_for_C
-Code projects from SoloLearn
+**Code projects from SoloLearn**
 
 _________Basic Concepts #1_________
 Task: 
