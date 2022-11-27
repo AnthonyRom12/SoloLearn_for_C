@@ -26,7 +26,7 @@ Also, when the current countdown number is a multiple of 5, the app should outpu
 Sample Input:
 12
 
-Sample Output:
+*Sample Output:*
 12
 11
 10
